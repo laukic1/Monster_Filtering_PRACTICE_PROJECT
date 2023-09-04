@@ -28,7 +28,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="title">Monsters Rolodex</h1>
+      <h1 className="title">Champion Search</h1>
       
 <SearchBox onSearchChangeHandler={onSearchChange} />
       <CardList monsters={newFilteredMonsters} />

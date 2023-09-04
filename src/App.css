@@ -9,6 +9,7 @@ body {
   background: linear-gradient(
     to left,
     rgba(7, 27, 82, 1) 0%,
+    rgb(90, 122, 209) 50%,
     rgba(0, 128, 128, 1) 100%
   );
   text-align: center;
@@ -16,8 +17,10 @@ body {
 
 
 .title {
-  margin: 1em 0 2em 0em;
+  margin: 1em 0 1.5em 0em;
   font-size: 70px;
-  font-family: 'Rubik Iso', cursive;
-  color:rgb(122, 238, 238);
+  font-family: 'Black Ops One', cursive;
+
+  color:rgb(67, 34, 255);
+  text-shadow: 0 0 3px white;;
 }

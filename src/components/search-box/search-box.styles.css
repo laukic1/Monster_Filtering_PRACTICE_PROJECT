@@ -2,9 +2,13 @@
     -webkit-appearance: none;
     border: none;
     outline: none;
-    padding: 10px;
-    width: 150px;
+    padding: 1em;
+    width: 250px;
     line-height: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 5em;
+    background: rgb(203, 238, 255);
+    text-transform: uppercase;
+    text-align: center;
+    box-shadow: 0 0 10px white;
   }
   
